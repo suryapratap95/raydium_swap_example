@@ -1,0 +1,16 @@
+{
+  "timestamp": "2024-12-19T06:34:45.674Z",
+  "network": "devnet",
+  "addresses": {
+    "programId": "8omdpoCLrwZPPvVDrLujvxdTRWCrkTNDFsXFmPyaNNfS",
+    "tokenMint0": "8GPb8AHTWUbt5Rsm6UqME2auKnRUPgsMh7pAUtA7oE2E",
+    "tokenMint1": "7JWtEsvvVhgirqCbpy7X1SPYGdCiYyofy3hjXDk4sQ8G",
+    "userTokenAccount0": "GwyNkyAXRakEdDVF32a9Jx1nLNBeZFygftR4nipc2rC5",
+    "userTokenAccount1": "8YtY5YWXCnbtk53KvqrL7EeTEcXoyVx44rFYxweuPT3n",
+    "poolState": "65kUTic7iWmhU7onSwXuQ88geGpnkhDtgMrwV2chnEXj",
+    "poolVault0": "9rTbE4vzm4CCuPEE91X1X3bjAQeiCG9aqJSLs8gE5LCj",
+    "poolVault1": "8dmuW7iZF2BVB4G8eZS7Bpmj9Kpib5MbzWsoXiXgSDDv",
+    "lastSwapTx": "8J2FxBgZgnLT4pwrjea7HHcPbkd2CPSCaUcfmzznqHJx3GJTStYabELjZEUbLZb4JiQyVUwD1NE8x2LrAHZfnmK",
+    "walletAddress": "FAhoh1ihPVBvYF9qQ7FTi6yASzE2tdhMccgi6jd2MBM7"
+  }
+}

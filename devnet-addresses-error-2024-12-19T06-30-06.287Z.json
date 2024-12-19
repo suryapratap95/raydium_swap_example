@@ -1,0 +1,21 @@
+{
+  "timestamp": "2024-12-19T06:30:06.288Z",
+  "network": "devnet",
+  "addresses": {
+    "programId": "8omdpoCLrwZPPvVDrLujvxdTRWCrkTNDFsXFmPyaNNfS",
+    "tokenMint0": "2ApY8yYLzbv7ypdicdyk91gYc3YbuohZVoobb8xDw1E7",
+    "tokenMint1": "C7d3A8Lhrr4c384bZbdyjWDi65x7dAFpE5iyStcZGNGB",
+    "userTokenAccount0": "Hu5pEpx7tB6s1WZtQKa3XRF3PamdAQRqMazkbqCk4nCy",
+    "userTokenAccount1": "EfDifoNJuEDEHhejGSBMzWz9LNHVzPAnNXn4aikXNENJ",
+    "poolState": "FWYjfyURd4cQjCuFWkqLtZTso5tVuedDpxDe2zX2GUZg"
+  },
+  "error": {
+    "message": "AnchorError occurred. Error Code: DeclaredProgramIdMismatch. Error Number: 4100. Error Message: The declared program id does not match the actual program id.",
+    "logs": [
+      "Program 8omdpoCLrwZPPvVDrLujvxdTRWCrkTNDFsXFmPyaNNfS invoke [1]",
+      "Program log: AnchorError occurred. Error Code: DeclaredProgramIdMismatch. Error Number: 4100. Error Message: The declared program id does not match the actual program id.",
+      "Program 8omdpoCLrwZPPvVDrLujvxdTRWCrkTNDFsXFmPyaNNfS consumed 3551 of 200000 compute units",
+      "Program 8omdpoCLrwZPPvVDrLujvxdTRWCrkTNDFsXFmPyaNNfS failed: custom program error: 0x1004"
+    ]
+  }
+}
